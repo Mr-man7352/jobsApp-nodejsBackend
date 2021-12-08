@@ -22,3 +22,5 @@ module.exports = {
 // if (!name || !email || !password) {
 //   throw new BadRequestError("Please provide name , email and password");
 // }
+
+// adding comment
